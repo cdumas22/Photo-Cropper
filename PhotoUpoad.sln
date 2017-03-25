@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0C0CAA4B-45FB-4D77-9C49-5481A98E59A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41C6B1FB-E22A-4610-A67E-9F5EE20784D9}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "PhotoUpoad", "src\PhotoUpoad\PhotoUpoad.xproj", "{A2016B01-CC53-4E1F-ABF8-3235AF1200BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2016B01-CC53-4E1F-ABF8-3235AF1200BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2016B01-CC53-4E1F-ABF8-3235AF1200BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2016B01-CC53-4E1F-ABF8-3235AF1200BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2016B01-CC53-4E1F-ABF8-3235AF1200BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2016B01-CC53-4E1F-ABF8-3235AF1200BA} = {0C0CAA4B-45FB-4D77-9C49-5481A98E59A3}
+	EndGlobalSection
+EndGlobal
