@@ -15,8 +15,8 @@ $RECYCLE.BIN/
 *.msp
 
 wwwroot/lib
-bin/
-obj/
+bin
+obj
 
 # Windows shortcuts
 *.lnk
